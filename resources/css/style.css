@@ -4,6 +4,8 @@ h1 {
   font-weight: : bold;
   color: white;
   text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+
 }
 h2 {
   text-align: center;
