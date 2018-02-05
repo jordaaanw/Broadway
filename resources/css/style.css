@@ -4,8 +4,11 @@ h1 {
   font-weight: : bold;
   color: white;
   text-align: center;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
 
+.home, .process, .work, .team, .contact, .design, h1 {
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 h2 {
   text-align: center;
@@ -13,10 +16,18 @@ h2 {
 h3 {
   Font-family: Helvetica;
   font size: 18px;
-  color: gray;
   text-align: center;
 }
 p {
   text-align: center;
-  color: gray;
+}
+.design {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+footer {
+color: white;
+background-color: gray;
+text-align: left;
 }
