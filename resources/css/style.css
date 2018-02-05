@@ -3,9 +3,18 @@ h1 {
   font-size: 70px;
   font-weight: : bold;
   color: white;
+  text-align: center;
+}
+h2 {
+  text-align: center;
 }
 h3 {
   Font-family: Helvetica;
   font size: 18px;
-  color: white;
+  color: gray;
+  text-align: center;
+}
+p {
+  text-align: center;
+  color: gray;
 }
